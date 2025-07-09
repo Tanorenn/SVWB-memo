@@ -1,1 +1,1 @@
-# Shadowverse-memo
+シャドバWBのメモ
